@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pati103
 - 👀 I’m interested in Data/Marketing Analytics
-- 🌱 I’m currently learning python and SQL
+- 🌱 Graduated from a 9month intensive Professional Data Analytics course from Yandex, Practicum100
 
 
 <!---
